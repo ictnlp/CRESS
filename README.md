@@ -12,11 +12,6 @@ This is a PyTorch implementation of the **ACL 2023 main conference paper** [Unde
 - [CMOT (ACL 2023)](https://arxiv.org/abs/2305.14635)
 
 
-
-## Table of Contents
-
-[TOC]
-
 ## Release
 
 We have released the following assets for **all 8 translation directions of MuST-C**:
