@@ -246,7 +246,7 @@ sh cress/test_scripts/test.en-x.mt.sh $CKPT $TGT_LANG $LENPEN
 
 ## Citation
 
-In this repository is useful for you, please cite as:
+If this repository is useful for you, please cite as:
 
 ```
 @inproceedings{fang-and-feng-2023-understanding,
